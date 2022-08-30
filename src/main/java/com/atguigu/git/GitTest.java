@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hot-fix hello git");
         System.out.println("master测试合并冲突");
+        System.out.println("hot-fix测试合并冲突");
+        System.out.println("hot-fix测试合并冲突2");
     }
 }
